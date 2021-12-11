@@ -1,0 +1,34 @@
+#formulario{
+    background-color: rgba(255, 255, 255, 0.508);
+    border-radius: 100%;
+    margin-top: 100px;
+    width: 50%;
+    padding: 40px;
+}
+body {
+    background-image: url(./fondo.jpg);
+}
+.letras{
+    font-weight: bold;
+}
+#imagen {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+.centrar {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fondo{
+    border-radius: 5%;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: rgba(174, 180, 201, 0.364);
+    font-weight: bold;
+    color: black;
+}
+h2{
+    color: white;
+}

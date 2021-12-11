@@ -1,0 +1,18 @@
+/* #index-container{
+    border: 2px solid red;
+} */
+#logo {
+    width: 35%;
+    height: 35%;
+    margin: auto;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+body{
+    color: white;
+    background-image: url(./fondo.jpg);
+    background-size: cover;
+}

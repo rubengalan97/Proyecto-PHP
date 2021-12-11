@@ -1,0 +1,44 @@
+.main-button{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.boton {
+    margin: 10px;
+}
+#salir {
+    float: right;
+}
+#tabla{
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tabla tr,td,th {
+    border: 2px solid black;
+    padding: 8px;
+}
+body {
+    background-image: url(./fondo.jpg);
+    color: white;
+}
+th {
+    background: rgb(0, 166, 255);
+}
+tr:nth-child(even) {
+    background: rgb(0, 89, 255);
+}
+tr:nth-child(odd) {
+    background: rgb(0, 132, 255);
+}
+#imagenes {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    margin-top: 25px;
+    width: 600px;
+    height: 300px;
+}
