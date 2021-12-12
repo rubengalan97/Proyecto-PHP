@@ -14,9 +14,6 @@
         $usuario = $_POST["usuarioNuevo"];
         $pass = $_POST["passNueva"];
 
-        echo $usuario;
-        echo $pass;
-
         $db = Database::getInstancia();
         $db->insertarUsuario($usuario, $pass);
         header("Location: ./main.php");
