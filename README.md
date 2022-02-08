@@ -1,4 +1,4 @@
-# ProyectoDWES
+# Proyecto PHP
 
 El proyecto que he realizado es un videoclub en el que se pueden hacer todas estas funciones:
 
